@@ -86,9 +86,9 @@ An intelligent web application integrating modern AI capabilities to improve pro
 
 ## 📫 Connect With Me
 
-* GitHub: https://github.com/yourusername
-* LinkedIn: https://linkedin.com/in/yourusername
-* Email: [your.email@example.com](mailto:your.email@example.com)
+* GitHub: https://github.com/highwill
+* LinkedIn: https://linkedin.com/in/highwill
+* Email: [grandaner33@gmail.com](mailto:your.email@example.com)
 
 ---
 
