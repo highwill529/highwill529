@@ -6,7 +6,6 @@ I'm a Senior Full-Stack Developer with 10+ years of experience designing and bui
 
 * 💻 Full-Stack Web Development
 * 🌐 REST APIs & Microservices
-* ☁️ Cloud & DevOps
 * ⚡ Performance Optimization
 * 🤝 Agile & Team Collaboration
 
