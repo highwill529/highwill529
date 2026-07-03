@@ -37,6 +37,7 @@ Built internal web applications and dashboards for engineering teams. Improved a
 Open to full-time roles, freelance work, or collaborations. Always happy to connect.
 
 **GitHub**: https://github.com/highwill529
+
 **Gmail**: yourname@gmail.com
 
 Thanks for stopping by.
