@@ -38,6 +38,6 @@ Open to full-time roles, freelance work, or collaborations. Always happy to conn
 
 **GitHub**: https://github.com/highwill529
 
-**Gmail**: yourname@gmail.com
+**Gmail**: grandaner33@gmail.com
 
 Thanks for stopping by.
