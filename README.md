@@ -1,94 +1,41 @@
-# Hi there, I'm Michael 👋
+# Hi, I'm Michael.
 
-## 🚀 About Me
+I'm a full-stack developer who enjoys building products that are fast, reliable, and easy to use. I like turning ideas into real applications, whether it's a customer-facing platform, an internal tool, or a complex backend system. I'm always interested in solving practical problems with clean, maintainable code.
 
-I'm a Senior Full-Stack Developer with 10+ years of experience designing and building scalable web applications. I enjoy solving complex problems, creating intuitive user experiences, and developing high-performance applications from frontend to backend.
+## About Me
 
-* 💻 Full-Stack Web Development
-* 🌐 REST APIs & Microservices
-* ⚡ Performance Optimization
-* 🤝 Agile & Team Collaboration
+With more than 10 years of experience in software development, I've worked across the entire development lifecycle—from planning and architecture to deployment and long-term maintenance. I enjoy collaborating with teams, improving existing systems, and creating software that people genuinely enjoy using.
 
----
+## What I Do
 
-## 🛠 Tech Stack
+* Build modern web applications from frontend to backend.
+* Design scalable APIs and backend services.
+* Improve application performance and user experience.
+* Develop cloud-ready solutions and deployment pipelines.
+* Turn complex business requirements into simple, maintainable software.
 
-### Frontend
+## Selected Work
 
-* React
-* Next.js
-* TypeScript
-* JavaScript (ES6+)
-* HTML5
-* CSS3
-* Tailwind CSS
-* Redux
+### Smartly.io — Helsinki, Finland *(Remote)*
 
-### Backend
+Worked on a large-scale SaaS platform used by global brands to manage and automate digital advertising. Built new product features, improved frontend performance with React and TypeScript, and developed backend services using Node.js.
 
-* Node.js
-* Express.js
-* Python
-* REST APIs
+### Mollie — Amsterdam, Netherlands *(Remote)*
 
-### Databases
+Contributed to payment infrastructure and internal tools supporting online merchants across Europe. Focused on API development, system reliability, and improving the developer experience.
 
-* PostgreSQL
-* MySQL
-* MongoDB
-* Redis
+### Contentful — Berlin, Germany *(Remote)*
 
-### Cloud & DevOps
+Developed features for a cloud-based content management platform. Collaborated with distributed engineering teams to build scalable frontend applications and backend services while maintaining high code quality.
 
-* AWS
-* Docker
-* GitHub Actions
+### Silicon Labs — Austin, Texas, United States *(Remote Contract)*
 
-### Tools
+Built internal web applications and dashboards for engineering teams. Improved application performance, developed RESTful APIs, and delivered full-stack solutions that streamlined development workflows.
 
-* Git
-* GitHub
-* VS Code
-* Postman
+## Let's Work Together
 
----
+I'm always interested in new opportunities, challenging projects, and collaborating with talented people. Whether you're building a new product, improving an existing platform, or looking for a reliable development partner, I'd love to connect.
 
-## 📌 Featured Projects
+**GitHub:** https://github.com/highwill529
 
-### 🛒 E-Commerce Platform
-
-A scalable e-commerce platform featuring secure authentication, payment integration, inventory management, and an intuitive admin dashboard.
-
-### 💬 Real-Time Chat Application
-
-A real-time messaging application with WebSocket communication, user authentication, notifications, and responsive design.
-
-### 📋 Project Management System
-
-A collaborative task management platform supporting project tracking, team collaboration, role-based access, and analytics.
-
-### 🤖 AI-Powered Web Application
-
-An intelligent web application integrating modern AI capabilities to improve productivity and automate workflows.
-
----
-
-## 📈 Currently Learning
-
-* AI & Large Language Models
-* Advanced Cloud Architecture
-* Kubernetes
-* System Design
-* Performance Engineering
-
----
-
-## 📫 Connect With Me
-
-* GitHub: https://github.com/highwill
-* LinkedIn: https://linkedin.com/in/highwill
-* Email: [grandaner33@gmail.com](mailto:your.email@example.com)
-
----
-
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+Thanks for stopping by.
