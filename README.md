@@ -34,8 +34,9 @@ Built internal web applications and dashboards for engineering teams. Improved a
 
 ## Let's Work Together
 
-I'm always interested in new opportunities, challenging projects, and collaborating with talented people. Whether you're building a new product, improving an existing platform, or looking for a reliable development partner, I'd love to connect.
+Open to full-time roles, freelance work, or collaborations. Always happy to connect.
 
-**GitHub:** https://github.com/highwill529
+**GitHub**: https://github.com/highwill529
+**Gmail**: yourname@gmail.com
 
 Thanks for stopping by.
