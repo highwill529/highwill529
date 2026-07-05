@@ -24,8 +24,8 @@ With more than 10 years of experience in software development, I've worked acros
 
 ### Full-Stack Developer	SEP 2018 – AUG 2024
   #### Silicon Labs / Contract	
-    Worked as a Full-Stack Web Developer from 2018 to 2024, building and maintaining web applications. Developed responsive front-end interfaces and backend services, managed APIs, and handled       database operations.
-    Improved application performance, fixed bugs, and added new features based on business requirements. Collaborated with teams in an Agile environment and participated in code reviews and          deployments.
+    Worked as a Full-Stack Web Developer from 2018 to 2024, building and maintaining web applications. Developed responsive front-end interfaces and backend services, managed APIs, and handled database operations.
+    Improved application performance, fixed bugs, and added new features based on business requirements. Collaborated with teams in an Agile environment and participated in code reviews and deployments.
     Focused on writing clean, scalable code and ensuring stable, user-friendly applications in production.
 
 ### Full Stack Engineer	JUL 2015 – APR 2017
@@ -39,7 +39,7 @@ With more than 10 years of experience in software development, I've worked acros
 
 ### Software Engineer	MAY 2014 – JUL 2015
   #### BabbleLabs, Inc. / Contract	
-    ●Worked on Building out and cloud deployment which provides REST interfaces around BabbleLabs speech enhancement features, audio transcoding, and provides monetization of these                    capabilities.
+    ●Worked on Building out and cloud deployment which provides REST interfaces around BabbleLabs speech enhancement features, audio transcoding, and provides monetization of these capabilities.
     ●Developed a multi-language Vendor Managed Inventory with a modern UI including data visualization using React.js
 
 ## Let's Work Together
