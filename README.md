@@ -17,19 +17,19 @@ With more than 10 years of experience in software development, I've worked acros
 ## Selected Work
 
 ### Full-Stack Software Engineer	AUG 2015– JAN 2020
-  Aloware / Contract	
+  #### Aloware / Contract	
     ●Developed Web Application using Full Tech Stack (React, SQL).
     ●Used Formik, and Yup to implement forms and form validation in React.
     ●Created reusable and responsive components using React and CSS.
 
 ### Full-Stack Developer	SEP 2018 – AUG 2024
-  Silicon Labs / Contract	
+  #### Silicon Labs / Contract	
     Worked as a Full-Stack Web Developer from 2018 to 2024, building and maintaining web applications. Developed responsive front-end interfaces and backend services, managed APIs, and handled       database operations.
     Improved application performance, fixed bugs, and added new features based on business requirements. Collaborated with teams in an Agile environment and participated in code reviews and          deployments.
     Focused on writing clean, scalable code and ensuring stable, user-friendly applications in production.
 
 ### Full Stack Engineer	JUL 2015 – APR 2017
-  Rumble / Contract	
+  #### Rumble / Contract	
     ●Developed two project features to rebuild the front-end of the online store and deployed two weeks ahead of schedule by executing disciplined development practices.
     ●Implemented user interface by using the React JS, and Redux for SPA development and rendered server-side with Next.js for improving page loading speed. 
     ●Implemented dashboard and admin website using Bootstrap, Chart.js and Google analytics.
@@ -38,7 +38,7 @@ With more than 10 years of experience in software development, I've worked acros
 
 
 ### Software Engineer	MAY 2014 – JUL 2015
-  BabbleLabs, Inc. / Contract	
+  #### BabbleLabs, Inc. / Contract	
     ●Worked on Building out and cloud deployment which provides REST interfaces around BabbleLabs speech enhancement features, audio transcoding, and provides monetization of these                    capabilities.
     ●Developed a multi-language Vendor Managed Inventory with a modern UI including data visualization using React.js
 
