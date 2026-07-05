@@ -16,21 +16,31 @@ With more than 10 years of experience in software development, I've worked acros
 
 ## Selected Work
 
-### Smartly.io — Helsinki, Finland *(Remote)*
+Full-Stack Software Engineer	AUG 2015– JAN 2020
+Aloware / Contract	
+●Developed Web Application using Full Tech Stack (React, SQL).
+●Used Formik, and Yup to implement forms and form validation in React.
+●Created reusable and responsive components using React and CSS.
 
-Worked on a large-scale SaaS platform used by global brands to manage and automate digital advertising. Built new product features, improved frontend performance with React and TypeScript, and developed backend services using Node.js.
+Full-Stack Developer	SEP 2018 – AUG 2024
+Silicon Labs / Contract	
+Worked as a Full-Stack Web Developer from 2018 to 2024, building and maintaining web applications. Developed responsive front-end interfaces and backend services, managed APIs, and handled database operations.
+Improved application performance, fixed bugs, and added new features based on business requirements. Collaborated with teams in an Agile environment and participated in code reviews and deployments.
+Focused on writing clean, scalable code and ensuring stable, user-friendly applications in production.
 
-### Mollie — Amsterdam, Netherlands *(Remote)*
+Full Stack Engineer	JUL 2015 – APR 2017
+Rumble / Contract	
+●Developed two project features to rebuild the front-end of the online store and deployed two weeks ahead of schedule by executing disciplined development practices.
+●Implemented user interface by using the React JS, and Redux for SPA development and rendered server-side with Next.js for improving page loading speed. 
+●Implemented dashboard and admin website using Bootstrap, Chart.js and Google analytics.
+●Implemented google authentication, twitter authentication.
+●Worked with Jest unit test framework to write unit tests for JavaScript.
 
-Contributed to payment infrastructure and internal tools supporting online merchants across Europe. Focused on API development, system reliability, and improving the developer experience.
 
-### Contentful — Berlin, Germany *(Remote)*
-
-Developed features for a cloud-based content management platform. Collaborated with distributed engineering teams to build scalable frontend applications and backend services while maintaining high code quality.
-
-### Silicon Labs — Austin, Texas, United States *(Remote Contract)*
-
-Built internal web applications and dashboards for engineering teams. Improved application performance, developed RESTful APIs, and delivered full-stack solutions that streamlined development workflows.
+Software Engineer	MAY 2014 – JUL 2015
+BabbleLabs, Inc. / Contract	
+●Worked on Building out and cloud deployment which provides REST interfaces around BabbleLabs speech enhancement features, audio transcoding, and provides monetization of these capabilities.
+●Developed a multi-language Vendor Managed Inventory with a modern UI including data visualization using React.js
 
 ## Let's Work Together
 
