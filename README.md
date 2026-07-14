@@ -1,4 +1,4 @@
-# Hi, I'm Michael.
+# Hi, I'm Eugene.
 
 I'm a full-stack developer who enjoys building products that are fast, reliable, and easy to use. I like turning ideas into real applications, whether it's a customer-facing platform, an internal tool, or a complex backend system. I'm always interested in solving practical problems with clean, maintainable code.
 
